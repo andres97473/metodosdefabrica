@@ -1,0 +1,10 @@
+c:\users\ingenieria\documents\visual studio 2010\Projects\Metodos de Frabrica\Metodos de Frabrica\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ingenieria\documents\visual studio 2010\Projects\Metodos de Frabrica\Metodos de Frabrica\bin\Debug\Metodos de Frabrica.exe
+c:\users\ingenieria\documents\visual studio 2010\Projects\Metodos de Frabrica\Metodos de Frabrica\bin\Debug\Metodos de Frabrica.pdb
+c:\users\ingenieria\documents\visual studio 2010\Projects\Metodos de Frabrica\Metodos de Frabrica\obj\x86\Debug\Metodos de Frabrica.exe
+c:\users\ingenieria\documents\visual studio 2010\Projects\Metodos de Frabrica\Metodos de Frabrica\obj\x86\Debug\Metodos de Frabrica.pdb
+D:\BiblioTecaZz\documentos\Universidad\Arquitectura\Metodos de Frabrica\Metodos de Frabrica\obj\x86\Debug\Metodos de Frabrica.exe
+D:\BiblioTecaZz\documentos\Universidad\Arquitectura\Metodos de Frabrica\Metodos de Frabrica\obj\x86\Debug\Metodos de Frabrica.pdb
+D:\BiblioTecaZz\documentos\Universidad\Arquitectura\Metodos de Frabrica\Metodos de Frabrica\bin\Debug\Metodos de Frabrica.exe
+D:\BiblioTecaZz\documentos\Universidad\Arquitectura\Metodos de Frabrica\Metodos de Frabrica\bin\Debug\Metodos de Frabrica.pdb
+D:\BiblioTecaZz\documentos\Universidad\Arquitectura\Metodos de Frabrica\Metodos de Frabrica\obj\x86\Debug\Metodos de Frabrica.csprojResolveAssemblyReference.cache
